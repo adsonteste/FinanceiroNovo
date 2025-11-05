@@ -1,6 +1,6 @@
 {
-  "name": "FinanceControl",
-  "short_name": "FinanceControl",
+  "name": "Gestão Financeira",
+  "short_name": "Gestão Financeira",
   "description": "Sistema inteligente de gestão financeira pessoal",
   "start_url": "/",
   "display": "standalone",
